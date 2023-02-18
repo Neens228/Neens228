@@ -8,7 +8,7 @@
 </p>
 
 <h2>Cвязь со мной</h2>
-<dir><img height=50 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> +79122447301</dir></br>
+<dir><img height=35 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> +79122447301</dir></br>
 <dir>@ilyasafin02</dir></br>
 <dir>cobraode228@mail.ru</dir>
 
