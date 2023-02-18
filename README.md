@@ -23,10 +23,10 @@
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=neens228&theme=dark"><img
-           height=150
+           height=200
            src="https://github-readme-stats.vercel.app/api?username=neens228&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/neens228/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neens228&theme=dark"/></a>
+   <a href="https://github.com/neens228/github-readme-stats"><img height=200
+                                                                  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neens228&theme=dark"/></a>
 </p>
 
 
