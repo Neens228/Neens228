@@ -42,6 +42,7 @@
      <li>Maven,Gradle</li>
      <li>Windows,Ubuntu</li>
      <li>ООП</li>
+     <li>Jackson,JAXB</li>
    </ul>
 
 	
