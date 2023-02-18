@@ -21,11 +21,13 @@
 <p><img height=34 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 <p>cobraode228@gmail.com</p>
 
+<h2>Статистика</h2>
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=neens228"><img
            height=200
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=neens228&theme=dark"/></a>
-   <a href="https://github.com/neens228/github-readme-stats"><img height=150
+   <a href="https://github.com/neens228/github-readme-stats"><img height=200
                                                                   src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=neens228&theme=dark"/></a>
 </p>
 
