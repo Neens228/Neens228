@@ -1,4 +1,4 @@
-	[![Header](https://github.com/Neens228/Neens228/blob/main/assets/javadev.gif)]
+Header
 
 	About me
 
