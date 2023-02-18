@@ -19,7 +19,7 @@
 <p>@ilyasafin02</p>
 
 
-<p><img height=28 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p><img height=32 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 <p>cobraode228@gmail.com</p>
 
 
