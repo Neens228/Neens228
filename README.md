@@ -7,10 +7,20 @@
 	Уверенно владею Java.
 </p>
 
+<h2>Cвязь со мной</h2>
+<dir>+79122447301</dir>
+<dir>@ilyasafin02</dir>
+<dir>cobraode228@mail.ru</dir>
+
 <h2>Hard Skills:</h2>
+<ul>
+     <li>Java</li>
+     <li>SQL</li>
+     <li>PHP</li>
+     <li>ООП</li>
+     <li>Maven,Gradle</li>
+     <li>Windows,Ubuntu</li>
+     <li>ООП</li>
+   </ul>
 
-	Channels
-
-	Languaguies tools 
-
-	Follow me
+	
