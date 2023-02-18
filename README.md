@@ -13,7 +13,7 @@
 <img height=35 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <dir><a href="https://t.me/ilyasafin02">@ilyasafin02</a></dir></br>
 
-<p><img height=15 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>cobraode228@gmail.com</p>
+<p><img height=28 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>cobraode228@gmail.com</p>
 
 
 <h2>Hard Skills:</h2>
