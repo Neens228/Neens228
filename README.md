@@ -8,8 +8,8 @@
 </p>
 
 <h2>Cвязь со мной</h2>
-<dir>+79122447301</dir>
-<dir>@ilyasafin02</dir>
+<dir>+79122447301</dir></br>
+<dir>@ilyasafin02</dir></br>
 <dir>cobraode228@mail.ru</dir>
 
 <h2>Hard Skills:</h2>
