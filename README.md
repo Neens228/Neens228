@@ -43,6 +43,7 @@
      <li>Windows,Ubuntu</li>
      <li>ООП</li>
      <li>Jackson,JAXB</li>
+     <li>JUnit</li>
    </ul>
 
 	
